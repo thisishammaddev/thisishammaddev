@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07080B,50:0B3B3A,100:38E1D8&height=230&section=header&text=Hammad%20Ehsan%20Ullah&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20GenAI%20%26%20Agentic%20Systems&descSize=18&descAlignY=60&descColor=38E1D8" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07080B,50:0B3B3A,100:38E1D8&height=230&section=header&text=Hammad%20Ehsan%20Ullah&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20-%20Team%20Lead%20-%20GenAI%20and%20Agentic%20Systems&descSize=18&descAlignY=60" alt="Hammad Ehsan Ullah" />
 
 <a href="https://github.com/thisishammaddev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38E1D8&center=true&vCenter=true&width=760&height=48&lines=Backend+Engineer+%40+Diamond+Bayou;Team+Lead+%40+CodeBuddy;Founder+of+VulnGuard+AI;Building+agentic+AI+and+real-time+systems;55%2B+projects+shipped+%C2%B7+4%2B+years+in+production" alt="typing intro" />
@@ -80,7 +80,7 @@ I build production AI products and the backend systems behind them. Over 4 years
       <p><code>LangGraph</code> <code>Python</code> <code>MQL5</code> <code>FastAPI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/IamHammadDevX/Real-time-Stock-Signal-System">Real-Time Stock Signals</a></h3>
+      <h3>Real-Time Stock Signals</h3>
       <p><code>Deployed</code></p>
       <p>Market analytics platform with technical indicators, WebSocket feeds, and Telegram alert delivery for traders.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>WebSocket</code> <code>Redis</code> <code>Telegram API</code></p>
@@ -88,13 +88,13 @@ I build production AI products and the backend systems behind them. Over 4 years
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/IamHammadDevX/Time-Tracker-System">Time Tracker SaaS</a></h3>
+      <h3>Time Tracker SaaS</h3>
       <p><code>Deployed</code></p>
       <p>Multi-tenant time tracking platform with billing, invoicing, and analytics dashboards for remote teams.</p>
       <p><code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Stripe</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/IamHammadDevX/AnonyChat-App">AnonyChat</a></h3>
+      <h3>AnonyChat</h3>
       <p><code>Deployed</code></p>
       <p>Anonymous real-time messaging platform with end-to-end encryption, admin controls, and WebSocket-based delivery.</p>
       <p><code>React</code> <code>Node.js</code> <code>Socket.io</code> <code>MongoDB</code></p>
@@ -102,7 +102,7 @@ I build production AI products and the backend systems behind them. Over 4 years
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/IamHammadDevX/AI-Resume-Screening-System">AI Resume Screening</a></h3>
+      <h3>AI Resume Screening</h3>
       <p><code>Research complete</code></p>
       <p>NLP-powered candidate ranking with deep learning classifiers, ATS integration, and automated scoring pipelines.</p>
       <p><code>Python</code> <code>TensorFlow</code> <code>NLP</code> <code>Scikit-learn</code></p>
@@ -137,12 +137,12 @@ I build production AI products and the backend systems behind them. Over 4 years
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IamHammadDevX&show_icons=true&hide_border=true&bg_color=07080B&title_color=38E1D8&icon_color=38E1D8&text_color=C9D1D9&ring_color=38E1D8&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamHammadDevX&layout=compact&hide_border=true&bg_color=07080B&title_color=38E1D8&text_color=C9D1D9&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thisishammaddev&show_icons=true&hide_border=true&bg_color=07080B&title_color=38E1D8&icon_color=38E1D8&text_color=C9D1D9&ring_color=38E1D8&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisishammaddev&layout=compact&hide_border=true&bg_color=07080B&title_color=38E1D8&text_color=C9D1D9&langs_count=8" alt="top languages" />
 
-<img height="170" src="https://streak-stats.demolab.com/?user=IamHammadDevX&hide_border=true&background=07080B&ring=38E1D8&fire=38E1D8&currStreakLabel=38E1D8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=thisishammaddev&hide_border=true&background=07080B&ring=38E1D8&fire=38E1D8&currStreakLabel=38E1D8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IamHammadDevX&bg_color=07080B&color=38E1D8&line=38E1D8&point=FFFFFF&area=true&area_color=38E1D8&hide_border=true" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thisishammaddev&bg_color=07080B&color=38E1D8&line=38E1D8&point=FFFFFF&area=true&area_color=38E1D8&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -159,8 +159,6 @@ I build production AI products and the backend systems behind them. Over 4 years
 <a href="https://codebuddy-e1xs.vercel.app/"><img src="https://img.shields.io/badge/CodeBuddy-07080B?style=for-the-badge&logo=vercel&logoColor=38E1D8" /></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=thisishammaddev&style=flat-square&color=38E1D8&label=PROFILE+VIEWS" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38E1D8,50:0B3B3A,100:07080B&height=110&section=footer" alt="footer" />
 
