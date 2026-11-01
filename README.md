@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hammad Ehsan Ullah — backend engineer, AI product builder, and team lead](./assets/hero.svg?v=2)
+![Hammad Ehsan Ullah — backend engineer, AI product builder, and team lead](./assets/hero.svg?v=3)
 ![What Hammad builds: agentic AI, LLM products, backend systems, and Web3 security](./assets/about-life.svg?v=2)
 ![Hammad's developer ID, delivery record, and current roles](./assets/id-dashboard.svg?v=2)
 ![Technologies Hammad ships with across AI, backend, web, and infrastructure](./assets/stack.svg?v=2)
