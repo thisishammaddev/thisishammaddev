@@ -17,20 +17,11 @@
 
 </div>
 
-<details>
-<summary><strong>Selected projects — open the build log</strong></summary>
+<div align="center">
 
-<br>
+![Eight selected projects across AI, backend systems, SaaS, and Web3 security](./assets/projects.svg?v=3)
 
-| Project | What it is | Stack | Status |
-| :-- | :-- | :-- | :-- |
-| [VulnGuard AI](https://thevulnguardai.tech) | AI-powered Solidity vulnerability scanner that delivers instant, Claude-powered audit reports for Web3 teams and auditors. I founded it. | Next.js, TypeScript, Claude API, PostgreSQL, Stripe, Solidity | Deployed |
-| [CodeBuddy](https://codebuddy-e1xs.vercel.app/) | AI-powered execution studio covering market validation, product planning, AI-assisted development, automation and growth. I lead the team. | AI automation, product engineering | Team Lead |
-| CopilotMeet | Real-time AI interview assistant with sub-300ms latency, using Deepgram Nova-3 speech-to-text, in-memory vector RAG and OpenRouter LLMs. | Next.js, TypeScript, Supabase, Deepgram, OpenRouter | Beta |
-| Autonomous Trading Agent | Agentic trading system with multi-step decision workflows on LangGraph for live market execution and signal generation. | LangGraph, Python, MQL5, FastAPI | Deployed |
-| Real-Time Stock Signals | Market analytics platform with technical indicators, WebSocket feeds and Telegram alert delivery for traders. | Python, FastAPI, WebSocket, Redis, Telegram API | Deployed |
-| Time Tracker SaaS | Multi-tenant time tracking platform with billing, invoicing and analytics dashboards for remote teams. | Next.js, Node.js, PostgreSQL, Stripe | Deployed |
-| AnonyChat | Anonymous real-time messaging platform with end-to-end encryption, admin controls and WebSocket-based delivery. | React, Node.js, Socket.io, MongoDB | Deployed |
-| AI Resume Screening | NLP-powered candidate ranking with deep learning classifiers, ATS integration and automated scoring pipelines. | Python, TensorFlow, NLP, Scikit-learn | Research complete |
+<a href="https://thevulnguardai.tech"><strong>VulnGuard AI</strong></a> &nbsp;·&nbsp;
+<a href="https://codebuddy-e1xs.vercel.app/"><strong>CodeBuddy</strong></a>
 
-</details>
+</div>
