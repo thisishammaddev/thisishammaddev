@@ -1,10 +1,10 @@
 <div align="center">
 
-![Hammad Ehsan Ullah — backend engineer, AI product builder, and team lead](./assets/hero.svg?v=3)
-![What Hammad builds: agentic AI, LLM products, backend systems, and Web3 security](./assets/about-life.svg?v=2)
-![Hammad's developer ID, delivery record, and current roles](./assets/id-dashboard.svg?v=2)
-![Technologies Hammad ships with across AI, backend, web, and infrastructure](./assets/stack.svg?v=2)
-![Ways to connect with Hammad for freelance, contract, and full-time work](./assets/connect.svg?v=2)
+<a href="https://iamhammaddevx.app/" title="Visit Hammad's portfolio"><img src="./assets/hero.svg?v=3" width="100%" alt="Hammad Ehsan Ullah — backend engineer, AI product builder, and team lead"></a>
+<a href="https://iamhammaddevx.app/" title="Learn more about Hammad"><img src="./assets/about-life.svg?v=2" width="100%" alt="What Hammad builds: agentic AI, LLM products, backend systems, and Web3 security"></a>
+<a href="https://github.com/thisishammaddev" title="Visit Hammad's GitHub profile"><img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Hammad's developer ID, delivery record, and current roles"></a>
+<a href="https://github.com/thisishammaddev?tab=repositories" title="Explore Hammad's repositories"><img src="./assets/stack.svg?v=2" width="100%" alt="Technologies Hammad ships with across AI, backend, web, and infrastructure"></a>
+<a href="https://www.linkedin.com/in/iamhammaddevx/" title="Connect with Hammad on LinkedIn"><img src="./assets/connect.svg?v=2" width="100%" alt="Ways to connect with Hammad for freelance, contract, and full-time work"></a>
 
 <p>
   <a href="https://www.linkedin.com/in/iamhammaddevx/">LinkedIn</a> &nbsp;|&nbsp;
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Eight selected projects across AI, backend systems, SaaS, and Web3 security](./assets/projects.svg?v=3)
+<a href="https://github.com/thisishammaddev?tab=repositories" title="Explore Hammad's projects"><img src="./assets/projects.svg?v=3" width="100%" alt="Eight selected projects across AI, backend systems, SaaS, and Web3 security"></a>
 
 <a href="https://thevulnguardai.tech"><strong>VulnGuard AI</strong></a> &nbsp;·&nbsp;
 <a href="https://codebuddy-e1xs.vercel.app/"><strong>CodeBuddy</strong></a>
